@@ -1,2 +1,3 @@
 name: Muhammad Irtaza, Game Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
